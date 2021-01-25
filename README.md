@@ -1,6 +1,4 @@
 
-![CircleCI](https://circleci.com/gh/abdel-hakim/project-ml-microservice-kubernetes.svg?tree/master.svg?style=svg)
-
 [![CircleCI](https://circleci.com/gh/abdel-hakim/project-ml-microservice-kubernetes.svg?tree/master.svg?style=svg)](https://circleci.com/gh/abdel-hakim/project-ml-microservice-kubernetes.svg?tree/master)
 
 
