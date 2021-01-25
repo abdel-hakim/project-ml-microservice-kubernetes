@@ -1,6 +1,6 @@
 <include a CircleCI status badge, here>
 
-![CircleCI](https://circleci.com/gh/abdel-hakim/project-ml-microservice-kubernetes.svg?tree/master.svg?style=svg) (https://circleci.com/gh/circleci/circleci-docs)
+![CircleCI](https://circleci.com/gh/abdel-hakim/project-ml-microservice-kubernetes.svg?tree/master.svg?style=svg)(https://circleci.com/gh/circleci/circleci-docs)
 
 ## Project Overview
 
