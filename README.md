@@ -1,5 +1,7 @@
 <include a CircleCI status badge, here>
 
+[![CircleCI](https://circleci.com/gh/circleci/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
@@ -22,6 +24,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 **The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
 ---
+
 
 ## Setup the Environment
 
